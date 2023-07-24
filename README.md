@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Michele030500
 - 👀 Green Energy
 - 🌱 Studente universitario
-- 💞️ Sto lavorando ad un app per le comunità energetiche
 - 📫 Puoi contattarmi su michele.avino.2000@gmail.com
