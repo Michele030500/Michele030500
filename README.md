@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Michele030500
 - 👀 Green Energy
-- 🌱 Studente universitario
+- Python & Django
+- React Native & Flutter
 - 📫 Puoi contattarmi su michele.avino.2000@gmail.com
